@@ -1,0 +1,11 @@
+/Users/hunterelam/Desktop/repos/ExampleOfClasses/ExampleOfClasses/obj/Debug/netcoreapp2.1/ExampleOfClasses.csprojAssemblyReference.cache
+/Users/hunterelam/Desktop/repos/ExampleOfClasses/ExampleOfClasses/obj/Debug/netcoreapp2.1/ExampleOfClasses.csproj.CoreCompileInputs.cache
+/Users/hunterelam/Desktop/repos/ExampleOfClasses/ExampleOfClasses/obj/Debug/netcoreapp2.1/ExampleOfClasses.AssemblyInfoInputs.cache
+/Users/hunterelam/Desktop/repos/ExampleOfClasses/ExampleOfClasses/obj/Debug/netcoreapp2.1/ExampleOfClasses.AssemblyInfo.cs
+/Users/hunterelam/Desktop/repos/ExampleOfClasses/ExampleOfClasses/bin/Debug/netcoreapp2.1/ExampleOfClasses.deps.json
+/Users/hunterelam/Desktop/repos/ExampleOfClasses/ExampleOfClasses/bin/Debug/netcoreapp2.1/ExampleOfClasses.runtimeconfig.json
+/Users/hunterelam/Desktop/repos/ExampleOfClasses/ExampleOfClasses/bin/Debug/netcoreapp2.1/ExampleOfClasses.runtimeconfig.dev.json
+/Users/hunterelam/Desktop/repos/ExampleOfClasses/ExampleOfClasses/bin/Debug/netcoreapp2.1/ExampleOfClasses.dll
+/Users/hunterelam/Desktop/repos/ExampleOfClasses/ExampleOfClasses/bin/Debug/netcoreapp2.1/ExampleOfClasses.pdb
+/Users/hunterelam/Desktop/repos/ExampleOfClasses/ExampleOfClasses/obj/Debug/netcoreapp2.1/ExampleOfClasses.dll
+/Users/hunterelam/Desktop/repos/ExampleOfClasses/ExampleOfClasses/obj/Debug/netcoreapp2.1/ExampleOfClasses.pdb
