@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{6B5C529B-FCD2-42F1-A902-9D05A5B5D5B4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ExampleOfClasses/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExampleOfClasses/Product.cs">
     <Files>
       <File FileName="ExampleOfClasses/Program.cs" Line="13" Column="105" />
       <File FileName="ExampleOfClasses/Product.cs" Line="1" Column="1" />
@@ -9,7 +9,7 @@
         <State name="__root__">
           <Node name="ExampleOfClasses" expanded="True">
             <Node name="ExampleOfClasses" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Product.cs" selected="True" />
             </Node>
           </Node>
         </State>
